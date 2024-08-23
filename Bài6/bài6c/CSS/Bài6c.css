@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.section-1 .container .inner-wrap .inner-main{
+    border: 1px solid skyblue;
+    max-width: 1200px;
+    width: 200px;
+    margin: 100px auto;
+    padding: 30px 10px;
+}
+

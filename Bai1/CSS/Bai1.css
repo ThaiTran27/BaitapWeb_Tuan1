@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+h2{
+    text-transform: uppercase;
+}
+div{
+    margin-top: 20px;
+    padding-left: 20px;
+    width: 400px;
+    height: 460px;
+    border: 1px solid rgb(176, 82, 82);
+    padding-bottom: 20px;
+    box-shadow: 5px 5px 3px gray, -5px -5px 3px gray;
+}
